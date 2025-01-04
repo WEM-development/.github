@@ -1,4 +1,6 @@
-## WEM-development
+<img align="left" src="/WEM-text.png" width=243px height=76px>
+
+# WEM-development
 
 This platform is mainly used, for our internal automatization for website development.
 
