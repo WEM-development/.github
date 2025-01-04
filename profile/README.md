@@ -1,4 +1,4 @@
-<img align="left" src="/WEM-text.png" width=243px height=76px>
+<img align="left" src="/WEM-text.png" width=230px height=67px>
 
 # WEM-development
 
